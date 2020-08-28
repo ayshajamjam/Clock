@@ -1,2 +1,4 @@
 # Clock
-It's a clock.
+A cute little clock
+
+<Inspired by Wes Bos JavaScript30>
