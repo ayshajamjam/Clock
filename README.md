@@ -1,4 +1,4 @@
 # Clock
 A cute little clock
 
-<Inspired by Wes Bos JavaScript30>
+Inspired by Wes Bos JavaScript30
